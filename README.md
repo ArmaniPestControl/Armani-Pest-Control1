@@ -6,9 +6,7 @@
     <meta name="description" content="Armani Pest Control - Affordable and Professional Pest Solutions in Wentworthville, NSW. All houses and apartments serviced and treated for $100.">
     <title>Armani Pest Control</title>
 
-    <!-- Schema Markup for Local Business, Certification, and additional details -->
-    <script type="application/ld+json">
-    {
+        {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Armani Pest Control",
