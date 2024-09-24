@@ -12,7 +12,7 @@
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Armani Pest Control",
-      "image": "https://example.com/logo.png",
+      
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Wentworthville",
