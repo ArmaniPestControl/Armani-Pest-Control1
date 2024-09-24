@@ -158,7 +158,7 @@
     <p>Affordable and Professional Pest Solutions</p>
     <p>Licence number: 5122764</p>
     
-    <img src="[ArmaniPest.png](https://github.com/ArmaniPestControl/Armanipestcontrol.github.io/blob/334381e1d5a59b024560e85aa090b0ee7de52262/ArmaniPest.png)" alt="Armani Pest Control - Affordable and Professional Pest Solutions">
+    
 
     <h2>All Houses & Apartments serviced and treated for <span style="color: #ff4500;">$100</span>.</h2>
     <h2>Call or message <b><a href="tel:0449850138">0449 850 138</a></b> to book.</h2>
